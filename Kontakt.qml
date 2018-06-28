@@ -33,11 +33,12 @@ Rectangle {
         anchors.fill: parent
         font { family: localFont.name; pixelSize: 18 }
         text:
-            "Aliaxis Utilities & Industry Sp. z o.o.\n" +
-            "ul. Annopol 4a, budynek C\n" +
-            "03 - 236 Warszawa\n" +
-            "NIP: 951 - 00 - 51 - 202\n" +
-            "Tel. +48 22 329 79 00\n" +
+            "Nicoll Polska Sp. z o.o.\n" +
+            "ul. Energetyczna 6\n" +
+            "56-400 Oleśnica\n" +
+            "\n" +
+            "NIP: 725-10-21-629\n" +
+            "Tel.: 71 399 5655\n" +
             "marek.strzempowicz@aliaxis-ui.pl"
         selectByKeyboard: true
         selectByMouse: true
